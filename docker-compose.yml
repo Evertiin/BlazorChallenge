@@ -1,0 +1,34 @@
+version: '3.7'
+
+services:
+  server:
+    build:
+      context: .
+      dockerfile: ./nginx/dockerfile
+    ports:
+      - "8080:80"
+    container_name: reverse-proxy
+    restart: unless-stopped
+    tty: true
+    volumes:
+      - ./:/var/www
+      - ./nginx/conf.d/:/etc/nginx/conf.d/
+      - ./nginx/logs/:/var/log/nginx
+    networks:
+      - api-net
+  web_api:
+    extends:
+      file: ./web_api/docker-compose.yml
+      service: webserver
+    networks:
+      - api-net
+  web_blazor:
+    extends:
+      file: ./web_blazor/docker-compose.yml
+      service: webserver
+    networks:
+      - api-net
+
+networks:
+  api-net:
+    driver: bridge

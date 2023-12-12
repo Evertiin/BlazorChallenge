@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  webserver:
+    build:
+      dockerfile: dockerfile
+    container_name: server1
+    restart: unless-stopped
+    tty: true
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+    networks:
+      - api-net

@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  webserver:
+    build:
+      dockerfile: dockerfile
+    container_name: server_dash
+    restart: unless-stopped
+    tty: true
+    volumes:
+      - ./:/var/www
+    networks:
+      - api-net
