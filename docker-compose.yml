@@ -28,6 +28,12 @@ services:
       service: webserver
     networks:
       - api-net
+  sql_data:
+    extends:
+      file: ./data_sqlserver/docker-compose.yml
+      service: sqlserver
+    networks:
+      - api-net
 
 networks:
   api-net:

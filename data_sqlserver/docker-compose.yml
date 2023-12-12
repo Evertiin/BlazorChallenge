@@ -1,0 +1,24 @@
+version: '3.7'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    user: root
+    restart: unless-stopped
+    container_name: sql_serverdata
+    environment:
+      SA_PASSWORD: "SqlServer!"
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: "Developer"
+    ports:
+      - "1433:1433"
+    volumes:
+      - ./db_data:/var/opt/mssql/data
+      - ./db_data/log:/var/opt/mssql/log
+      - ./db_data/secrets:/var/opt/mssql/secrets
+    networks:
+      - api-net
+
+networks:
+  api-net:
+    driver: bridge
