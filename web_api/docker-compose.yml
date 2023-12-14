@@ -3,6 +3,7 @@ version: '3.7'
 services:
   webserver:
     build:
+      context: .
       dockerfile: dockerfile
     container_name: server1
     restart: unless-stopped

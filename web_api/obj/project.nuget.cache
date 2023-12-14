@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "ApT0TXjrIQiN45yaMSzVF+DbczGhYswoCyLSUSRNER2e2etwPbGfw0mLO+GPdkpxvtmWu40aQ5nSZ3lQ0u2wVA==",
+  "dgSpecHash": "LdztF4mChm/N6NTmPD2DSSpQ52v0UzS+fsczgVM+IkPSpO9mpHPCONNtJ2x95weSRX9ucp32YidV/twVCfAZ8w==",
   "success": true,
-  "projectFilePath": "/home/development/SevenTech/Ecommerce/Api/Api.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Estudios\\Balta\\DotNet8\\Challenge\\Projects\\MovieWebApi\\MovieWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Creativo One\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\Creativo One\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Creativo One\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Creativo One\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Creativo One\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Creativo One\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Creativo One\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

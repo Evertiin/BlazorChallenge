@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Estudios\\Balta\\DotNet8\\Challenge\\Projects\\MovieWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MovieWeb.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Estudios\\Balta\\DotNet8\\Challenge\\Projects\\MovieWeb\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "E:\\Estudios\\Balta\\DotNet8\\Challenge\\Projects\\MovieWeb\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Estudios\\Balta\\DotNet8\\Challenge\\Projects\\MovieWeb\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Estudios\\Balta\\DotNet8\\Challenge\\Projects\\MovieWeb\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MovieWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MovieWeb.props",
+      "PackagePath": "build\\MovieWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieWeb.props",
+      "PackagePath": "buildMultiTargeting\\MovieWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MovieWeb.props",
+      "PackagePath": "buildTransitive\\MovieWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

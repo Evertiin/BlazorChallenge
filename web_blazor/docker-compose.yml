@@ -3,11 +3,12 @@ version: '3.7'
 services:
   webserver:
     build:
+      context: .
       dockerfile: dockerfile
     container_name: server_dash
     restart: unless-stopped
     tty: true
-    volumes:
-      - ./:/var/www
+    environment:
+      - ASPNETCORE_URLS=http://+:80
     networks:
       - api-net
