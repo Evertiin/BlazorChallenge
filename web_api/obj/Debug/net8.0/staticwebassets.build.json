@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "Y4aeaMI3p+YE5MA9yBx7SkMFAQ0L8sHbbqvPX8XUDiQ=",
-  "Source": "MovieWebApi",
-  "BasePath": "_content/MovieWebApi",
+  "Hash": "HT4ZTPqEkz4CA4f9VQG3cc6wlHqA8OEDqIDEairku1Y=",
+  "Source": "web_api",
+  "BasePath": "_content/web_api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

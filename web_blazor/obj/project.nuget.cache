@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eq5RQuKLyTsL2tBqcbxzBiwglmetXa9FZtdO6PUSEX5UYIGDbg3eZwgfB98KY3ZUF1ermPqzUxFwZe2gOeCWlQ==",
+  "dgSpecHash": "5lEBgvPrPYfrIAOAeI2g2UJSzVd3ythIMAF5Z4RnpXe9N8KCXXeSrhRWI5NAfgN0NpdgUWnd90NzbY1w2Uvv+A==",
   "success": true,
-  "projectFilePath": "E:\\Estudios\\Balta\\DotNet8\\Challenge\\Projects\\MovieWeb\\MovieWeb.csproj",
+  "projectFilePath": "C:\\Users\\everton\\Desktop\\BlazorChallenge\\BlazorChallenge\\web_blazor\\MovieWeb.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

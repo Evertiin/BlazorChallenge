@@ -8,34 +8,33 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Creativo One\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\everton\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Estudios\\Balta\\DotNet8\\Challenge\\Projects\\MovieWeb\\MovieWeb.csproj",
+      "projectUniqueName": "C:\\Users\\everton\\Desktop\\BlazorChallenge\\BlazorChallenge\\web_blazor\\MovieWeb.csproj",
       "projectName": "MovieWeb",
-      "projectPath": "E:\\Estudios\\Balta\\DotNet8\\Challenge\\Projects\\MovieWeb\\MovieWeb.csproj",
-      "packagesPath": "C:\\Users\\Creativo One\\.nuget\\packages\\",
-      "outputPath": "E:\\Estudios\\Balta\\DotNet8\\Challenge\\Projects\\MovieWeb\\obj\\",
+      "projectPath": "C:\\Users\\everton\\Desktop\\BlazorChallenge\\BlazorChallenge\\web_blazor\\MovieWeb.csproj",
+      "packagesPath": "C:\\Users\\everton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\everton\\Desktop\\BlazorChallenge\\BlazorChallenge\\web_blazor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Creativo One\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\everton\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

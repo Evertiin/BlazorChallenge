@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MovieWeb
 build_property.RootNamespace = MovieWeb
-build_property.ProjectDir = E:\Estudios\Balta\DotNet8\Challenge\Projects\MovieWeb\
+build_property.ProjectDir = C:\Users\everton\Desktop\BlazorChallenge\BlazorChallenge\web_blazor\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Estudios\Balta\DotNet8\Challenge\Projects\MovieWeb
+build_property.MSBuildProjectDirectory = C:\Users\everton\Desktop\BlazorChallenge\BlazorChallenge\web_blazor
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Estudios/Balta/DotNet8/Challenge/Projects/MovieWeb/Components/App.razor]
+[C:/Users/everton/Desktop/BlazorChallenge/BlazorChallenge/web_blazor/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Estudios/Balta/DotNet8/Challenge/Projects/MovieWeb/Components/Pages/Counter.razor]
+[C:/Users/everton/Desktop/BlazorChallenge/BlazorChallenge/web_blazor/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Estudios/Balta/DotNet8/Challenge/Projects/MovieWeb/Components/Pages/Error.razor]
+[C:/Users/everton/Desktop/BlazorChallenge/BlazorChallenge/web_blazor/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Estudios/Balta/DotNet8/Challenge/Projects/MovieWeb/Components/Pages/Home.razor]
+[C:/Users/everton/Desktop/BlazorChallenge/BlazorChallenge/web_blazor/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Estudios/Balta/DotNet8/Challenge/Projects/MovieWeb/Components/Pages/Weather.razor]
+[C:/Users/everton/Desktop/BlazorChallenge/BlazorChallenge/web_blazor/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Estudios/Balta/DotNet8/Challenge/Projects/MovieWeb/Components/Routes.razor]
+[C:/Users/everton/Desktop/BlazorChallenge/BlazorChallenge/web_blazor/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Estudios/Balta/DotNet8/Challenge/Projects/MovieWeb/Components/_Imports.razor]
+[C:/Users/everton/Desktop/BlazorChallenge/BlazorChallenge/web_blazor/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Estudios/Balta/DotNet8/Challenge/Projects/MovieWeb/Components/Layout/MainLayout.razor]
+[C:/Users/everton/Desktop/BlazorChallenge/BlazorChallenge/web_blazor/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-d6pmyhjljh
 
-[E:/Estudios/Balta/DotNet8/Challenge/Projects/MovieWeb/Components/Layout/NavMenu.razor]
+[C:/Users/everton/Desktop/BlazorChallenge/BlazorChallenge/web_blazor/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-s6grp080pe
